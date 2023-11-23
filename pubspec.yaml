@@ -4,14 +4,16 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: ">=3.1.5 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  #analysis
+  very_good_analysis: ^5.1.0
 
-
-  cupertino_icons: ^1.0.2
+  #envied
+  envied: ^0.5.2
 
 dev_dependencies:
   flutter_test:
@@ -20,5 +22,4 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-
   uses-material-design: true
