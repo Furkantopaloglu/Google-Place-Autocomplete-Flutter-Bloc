@@ -15,11 +15,17 @@ dependencies:
   #envied
   envied: ^0.5.2
 
+  #jsons
+  json_annotation: ^4.8.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  envied_generator: ^0.5.2
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.6
 
 flutter:
   uses-material-design: true
