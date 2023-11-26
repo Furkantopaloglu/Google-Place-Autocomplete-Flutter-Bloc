@@ -7,6 +7,7 @@ This project aims to develop an application that uses the Google Place Autocompl
 
 ![3](https://github.com/Furkantopaloglu/Google-Place-Autocomplete-Flutter-Bloc/assets/45017054/d553baa8-8409-423c-8261-394a1b25fcb3)
 
+###  Video
 
 [![ Google Place Autocomplete](http://img.youtube.com/vi/m2UkbQH-G30/0.jpg)](http://www.youtube.com/watch?v=m2UkbQH-G30  "Google Place Autocomplete")
 
